@@ -47,5 +47,5 @@ jobs:
     - name: Push log
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.TOKEN }}
+        github_token: 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
         branch: main
