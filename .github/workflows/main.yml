@@ -28,7 +28,7 @@ jobs:
     - name: Run jar
       env:
         CLIENT_ID: 5484391e-8dbf-459c-9bdc-14ebcb273f33
-        CLIENT_SECRET: JSk8Q~Ep8oa.G4G_fZTaRExKzc64ofD76.KJdai~
+        CLIENT_SECRET: VOB8Q~wT-Nt.FvbaNktXOMJkK_Msc6BnfNn6SbAR
         TENANT_GUID: d192622b-788c-4db0-9bde-2be2d5f1b2f6
         USERNAME: BlastFire@sensit1ve1.onmicrosoft.com
         PASSWORD: 761117asdASD
